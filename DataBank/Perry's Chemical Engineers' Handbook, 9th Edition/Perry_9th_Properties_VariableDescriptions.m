@@ -1,0 +1,66 @@
+Perry_9th.Properties.VariableDescriptions{1} = 'Identification Number in the Database'
+Perry_9th.Properties.VariableDescriptions{2} = 'Name of the Product'
+Perry_9th.Properties.VariableDescriptions{3} = 'Formula of the Product (Categorical)';
+Perry_9th.Properties.VariableDescriptions{4} = 'CAS Registry Number®';
+Perry_9th.Properties.VariableDescriptions{5} = 'Molecular Weight';
+Perry_9th.Properties.VariableDescriptions{6} = 'Critical Temperature';
+Perry_9th.Properties.VariableDescriptions{7} = 'Critical Pressure';
+Perry_9th.Properties.VariableDescriptions{8} = 'Critical Volume';
+Perry_9th.Properties.VariableDescriptions{9} = 'Critical Compressipility factor Z = PV/RT';
+Perry_9th.Properties.VariableDescriptions{10} = 'Pitzer''acentric factor';
+Perry_9th.Properties.VariableDescriptions{11} = 'Ideal gas Enthalpy of Formation,';
+Perry_9th.Properties.VariableDescriptions{12} = 'Ideal gas Gibbs Energy of Formation,';
+Perry_9th.Properties.VariableDescriptions{13} = 'Ideal gas entropy';
+Perry_9th.Properties.VariableDescriptions{14} = 'Standard net enthalpy of combustion';
+Perry_9th.Properties.VariableDescriptions{15} = 'First  coefficient of Heat Capacity at Constant Pressure of Inorganic and Organic Compounds in the Ideal Gas State Fit to Hyperbolic Functions';
+Perry_9th.Properties.VariableDescriptions{16} = 'Second  coefficient of Heat Capacity at Constant Pressure of Inorganic and Organic Compounds in the Ideal Gas State Fit to Hyperbolic Functions';
+Perry_9th.Properties.VariableDescriptions{17} = 'Third  coefficient of Heat Capacity at Constant Pressure of Inorganic and Organic Compounds in the Ideal Gas State Fit to Hyperbolic Functions';
+Perry_9th.Properties.VariableDescriptions{18} = 'Fourth  coefficient of Heat Capacity at Constant Pressure of Inorganic and Organic Compounds in the Ideal Gas State Fit to Hyperbolic Functions';
+Perry_9th.Properties.VariableDescriptions{19} = 'Fifth  coefficient of Heat Capacity at Constant Pressure of Inorganic and Organic Compounds in the Ideal Gas State Fit to Hyperbolic Functions';
+Perry_9th.Properties.VariableDescriptions{20} = 'Minimal Temperature to compute Heat Capacity at Constant Pressure of Inorganic and Organic Compounds in the Ideal Gas State Fit to Hyperbolic Functions';
+Perry_9th.Properties.VariableDescriptions{21} = 'Heat Capacity at Constant Pressure of Inorganic and Organic Compounds in the Ideal Gas State using Hyperbolic Functions at Minimal Temperature';
+Perry_9th.Properties.VariableDescriptions{22} = 'Maximal Temperature to compute Heat Capacity at Constant Pressure of Inorganic and Organic Compounds in the Ideal Gas State Fit to Hyperbolic Functions';
+Perry_9th.Properties.VariableDescriptions{23} = 'Heat Capacity at Constant Pressure of Inorganic and Organic Compounds in the Ideal Gas State using Hyperbolic Functions at Maximal Temperature';
+Perry_9th.Properties.VariableDescriptions{24} = 'First coefficient of Enthalpy of Vaporisation at Temperature T';
+Perry_9th.Properties.VariableDescriptions{25} = 'Second coefficient of Enthalpy of Vaporisation at Temperature T';
+Perry_9th.Properties.VariableDescriptions{26} = 'Third coefficient of Enthalpy of Vaporisation at Temperature T';
+Perry_9th.Properties.VariableDescriptions{27} = 'Fourth coefficient of Enthalpy of Vaporisation at Temperature T';
+Perry_9th.Properties.VariableDescriptions{28} = 'Minimal Temperature to compute Enthalpy of Vaporisation';
+Perry_9th.Properties.VariableDescriptions{29} = 'Enthalpy of Vaporisation at the minimal Temperature';
+Perry_9th.Properties.VariableDescriptions{30} = 'Maximal Temperature to compute Enthalpy of Vaporisation';
+Perry_9th.Properties.VariableDescriptions{31} = 'Enthalpy of Vaporisation at the Maximal Temperature';
+Perry_9th.Properties.VariableDescriptions{32} = 'Equation used to compute the Heat Capacity of liquid at Constant Pressure';
+Perry_9th.Properties.VariableDescriptions{33} = 'First coefficient of Heat Capacity at Constant Pressure of Inorganic and Organic Compounds in the Liquid State Function';
+Perry_9th.Properties.VariableDescriptions{34} = 'Second coefficient of Heat Capacity at Constant Pressure of Inorganic and Organic Compounds in the Liquid State Function';
+Perry_9th.Properties.VariableDescriptions{35} = 'Third coefficient of Heat Capacity at Constant Pressure of Inorganic and Organic Compounds in the Liquid State Function';
+Perry_9th.Properties.VariableDescriptions{36} = 'Fourth coefficient of Heat Capacity at Constant Pressure of Inorganic and Organic Compounds in the Liquid State Function';
+Perry_9th.Properties.VariableDescriptions{37} = 'Fith coefficient of Heat Capacity at Constant Pressure of Inorganic and Organic Compounds in the Liquid State Function';
+Perry_9th.Properties.VariableDescriptions{38} = 'Minimal Temperature to compute the Heat Capacity at Constant Pressure of Inorganic and Organic Compounds in the Liquid State Function';
+Perry_9th.Properties.VariableDescriptions{39} = 'Heat Capacity at Constant Pressure of Inorganic and Organic Compounds in the Liquid State at the Minimal Temperature';
+Perry_9th.Properties.VariableDescriptions{40} = 'Maximal Temperature to compute theCapacity at Constant Pressure of Inorganic and Organic Compounds in the Liquid State Function';
+Perry_9th.Properties.VariableDescriptions{41} = 'Heat Capacity at Constant Pressure of Inorganic and Organic Compounds in the Liquid State at Maximal Temperature';
+Perry_9th.Properties.VariableDescriptions{42} = 'Equation used to compute the denisty of liquid at Constant Pressure';
+Perry_9th.Properties.VariableDescriptions{43} = 'First coefficient of Density of Inorganic and Organic Compounds in the Liquid State Function';
+Perry_9th.Properties.VariableDescriptions{44} = 'Second coefficient of Density of Inorganic and Organic Compounds in the Liquid State Function';
+Perry_9th.Properties.VariableDescriptions{45} = 'Third coefficient of Density of Inorganic and Organic Compounds in the Liquid State Function';
+Perry_9th.Properties.VariableDescriptions{46} = 'Fourth coefficient of Density of Inorganic and Organic Compounds in the Liquid State Function';
+Perry_9th.Properties.VariableDescriptions{47} = 'Fith coefficient of Density of Inorganic and Organic Compounds in the Liquid State Function';
+Perry_9th.Properties.VariableDescriptions{48} = 'Sixth coefficient of Density of Inorganic and Organic Compounds in the Liquid State Function';
+Perry_9th.Properties.VariableDescriptions{49} = 'Seventh coefficient of Density of Inorganic and Organic Compounds in the Liquid State Function';
+Perry_9th.Properties.VariableDescriptions{50} = 'Minimal Temperature to compute Density of Inorganic and Organic Compounds in the Liquid State';
+Perry_9th.Properties.VariableDescriptions{51} = 'Density of Inorganic and Organic Compounds in the Liquid State at Minimal Temperature';
+Perry_9th.Properties.VariableDescriptions{52} = 'Maximal Temperature to compute Density of Inorganic and Organic Compounds in the Liquid State';
+Perry_9th.Properties.VariableDescriptions{53} = 'Density of Inorganic and Organic Compounds in the Liquid State at Maximal Temperature';
+Perry_9th.Properties.VariableDescriptions{54} = 'First coefficient of Vapor Pressure of Inorganic and Organic Compounds Function';
+Perry_9th.Properties.VariableDescriptions{55} = 'Second coefficient of Vapor Pressure of Inorganic and Organic Compounds Function';
+Perry_9th.Properties.VariableDescriptions{56} = 'Third coefficient of Vapor Pressure of Inorganic and Organic Compounds Function';
+Perry_9th.Properties.VariableDescriptions{57} = 'Fourth coefficient of Vapor Pressure of Inorganic and Organic Compounds Function';
+Perry_9th.Properties.VariableDescriptions{58} = 'Fith coefficient of Vapor Pressure of Inorganic and Organic Compounds Function';
+Perry_9th.Properties.VariableDescriptions{59} = 'Minimal Temperature to compute Vapor Pressure of Inorganic and Organic Compounds Function';
+Perry_9th.Properties.VariableDescriptions{60} = 'Vapor Pressure of Inorganic and Organic Compounds at Minimal Temperature';
+Perry_9th.Properties.VariableDescriptions{61} = 'Maximal Temperature to compute Vapor Pressure of Inorganic and Organic Compounds Function';
+Perry_9th.Properties.VariableDescriptions{62} = 'Vapor of Inorganic and Organic Compounds at Maximal Temperature';
+
+
+
+
